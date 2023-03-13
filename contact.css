@@ -1,0 +1,64 @@
+body{
+    background-color: #BE9B7B;
+}
+
+#kapcsolat{
+    color: #ffd;
+}
+
+.form-check-label{
+    color: #ffd;
+}
+
+.container{
+    background-image: url('https://wallpapers.com/images/hd/blurry-street-at-night-0g0654me6z2bjonq.webp');
+    background-repeat: no-repeat;
+    width: 100% 100%;
+    border-radius: 30px;
+}
+
+button{
+    margin-bottom: 10px;
+}
+
+.icons{
+    padding-bottom : 10px;
+    margin-left: 5px;
+}
+
+#szin10{
+    color: black;
+  
+  }
+
+.kozep2{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  
+  } 
+
+#map{
+    margin-left: 30px;
+    padding-bottom: 10px;
+    float: right;
+}
+
+#max{
+    max-width: 500px;
+    max-height: 300px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.form-check{
+    margin-left: 15px;
+}
+
+#hatternavbar{
+    text-align: center;
+    background-color: #7a6755;
+}
