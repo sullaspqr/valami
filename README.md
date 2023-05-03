@@ -18,3 +18,21 @@ A szennyvíztisztító telepet a TESZOVÁL Kft. üzemelteti, amely 100%-ban az
 áprilisában fejeződött be. A teljes beruházás összege 805 875 000 HUF volt, amelyből 580
 587 000 HUF uniós, 102 456 000 HUF állami és 122 832 000 HUF saját forrásból
 származott.
+
+# Főcím h1
+## Cím h2
+### Alcím h3
+#### Fejezet h4
+##### Alfejezet h5
+###### Még kisebb alfejezet h6
+
+Az is lehet egy főcím
+===============
+
+Illetve ez is:
+—-
+
+Link beszúrása markdown dokumentumba.
+
+Duck Duck Go
+[Duck Duck Go](https://duckduckgo.com)  formátumban történik
